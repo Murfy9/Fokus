@@ -1,4 +1,3 @@
-# 
 <div align="center">
 <h1>💻 Fokus<br/>
 Cursos na Alura - JavaScript: manipulando elementos no DOM</h1>
